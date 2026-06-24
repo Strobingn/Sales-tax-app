@@ -1,9 +1,16 @@
 # Sales Tax Calculator - Android App
 
-Native Android version pushed directly via connected GitHub tool.
+**Pushed directly to your repo by Grok using connected GitHub tool.**
 
-Full Kotlin + Jetpack Compose app with GitHub Actions for APK builds.
+Native Kotlin + Jetpack Compose rewrite of the HTML sales tax app.
 
-See the app/ folder for the full project.
+## Quick start on your phone
+1. The debug APK will be built automatically by GitHub Actions on every push.
+2. Go to Actions tab in this repo to download the APK artifact.
+3. Install it.
 
-Actions will build the debug APK on push.
+Full source is here now. Clone with any git client or Termux on Android.
+
+See previous messages for the full zip if you need local copy.
+
+Built raw, no bullshit.
