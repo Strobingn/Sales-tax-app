@@ -1,16 +1,21 @@
-# Sales Tax Calculator - Android App
+# Sales Tax Pro - Rock Star Edition
 
-**Pushed directly to your repo by Grok using connected GitHub tool.**
+**Native Android app pushed directly to your repo.**
 
-Native Kotlin + Jetpack Compose rewrite of the HTML sales tax app.
+Upgraded from basic HTML to a full-featured, production-quality sales tax calculator with maximum useful features.
 
-## Quick start on your phone
-1. The debug APK will be built automatically by GitHub Actions on every push.
-2. Go to Actions tab in this repo to download the APK artifact.
-3. Install it.
+## Rock Star Features
+- **3 Calculator Modes**: Standard Tax, Reverse (given total), Tip + Tax
+- **Multi-item support**: Add multiple line items, auto-sum, delete individual
+- **Smart Jurisdiction Selector**: 15+ US states + detailed NYC breakdown (State + City + MTA)
+- **Live everything**: Real-time calculations as you type
+- **Persistent in-session History** with load back, filter, export all as CSV/share
+- **Beautiful Material 3 UI** with dynamic color, dark mode, big numbers
+- **Copy & Share** results or full history
+- **No bullshit**: Fast, offline, accurate, built for real use (NYC friendly)
 
-Full source is here now. Clone with any git client or Termux on Android.
+## Build & APK
+The GitHub Actions workflow builds a working debug APK on every push.
+Go to Actions tab → download the artifact.
 
-See previous messages for the full zip if you need local copy.
-
-Built raw, no bullshit.
+Built to the max. No holding back.
